@@ -82,7 +82,7 @@
 
   font-family: inherit;
   font-size: 12px;
-  line-height: 2;
+  line-height: 1.17;
   letter-spacing: 0.04em;
   color: #ffffff;
 
@@ -95,7 +95,7 @@
 
 .footer-subscribe-input:focus {
   outline: none;
-  border-color: #4d5ae5;
+  border-color: #31d0aa;
 }
 
 .footer-subscribe-button {
@@ -124,5 +124,5 @@
 
 .footer-subscribe-button:hover,
 .footer-subscribe-button:focus {
-  background-color: #404bbf;
+  background-color: #31d0aa;
 }
